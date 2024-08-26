@@ -1,0 +1,15 @@
+{
+  "name": "abcd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass src/sass:src/css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "sass": "^1.77.8"
+  }
+}
